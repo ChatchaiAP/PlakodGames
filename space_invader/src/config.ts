@@ -5,9 +5,9 @@ export const PLAYER_START_MARGIN = 200
 export const PLAYER_SPEED = 480
 export const LASER_SPEED = 800
 export const LASER_FREQUENCY_MS = 500
-export const BULLET_COUNT = 10
+export const BULLET_COUNT = 20
 export const RELOAD_COUNT = 10
-export const HOLD_DURATION_MS = 5000
+export const HOLD_DURATION_MS = 3000
 export const HOLD_BAR_HEIGHT = 40
 export const HOLD_BAR_BORDER = 8
 
